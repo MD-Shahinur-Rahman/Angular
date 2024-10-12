@@ -32,5 +32,11 @@ Product Categories: View product categories, including category name and descrip
 Below are some screenshots of the system:
 
 ## here is product Category Wise Product
+![Screenshot 2024-10-12 200408](https://github.com/user-attachments/assets/d486fa79-e401-4b79-8487-d3df76959374)
+
 ## Here is Add Product and Category
+
+![Screenshot 2024-10-12 200615](https://github.com/user-attachments/assets/813b74ed-88b6-447d-bbfd-2d9bf5641c4d)
+
 ## here is delete Product and Category
+![Screenshot 2024-10-12 200712](https://github.com/user-attachments/assets/6c8516e8-d4dd-4852-9336-f4ba68669cec)

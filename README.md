@@ -1,27 +1,36 @@
-# ProductCategorywiseProduct
+# Category Wise Product Overview
+Overview
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.1.
+The Category Wise Product Overview is a comprehensive Angular 18 application designed to manage product-related data, including product categories, products. This system provides a seamless interface for creating, updating, deleting, and viewing product details efficiently.
 
-## Development server
+## Features
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Product Management: Create, update, delete, and view product details, including product categories.
+Category Management: Manage product categories, assign products to categories,
+Validation and Error Handling: Comprehensive validation and error handling to ensure data integrity and a smooth user experience.
 
-## Code scaffolding
+## Technologies Used
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Angular 18: For creating a scalable and maintainable web application.
+TypeScript: For building a robust and efficient application.
+Bootstrap: For responsive and modern UI design.
+RxJS: For enhanced user interactions and data handling.
+SQL Server: As the database solution to store and manage application data.
+ ## Product Categories
 
-## Build
+The system supports the following product categories:
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+Electronics: Manage electronic products, including laptops, mobiles, and tablets.
 
-## Running unit tests
+## Product Overview
+The system provides a comprehensive overview of products, including:
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Product Details: View product details, including product name, description, price, and image.
+Product Categories: View product categories, including category name and description.
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Below are some screenshots of the system:
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## here is product Category Wise Product
+## Here is Add Product and Category
+## here is delete Product and Category
